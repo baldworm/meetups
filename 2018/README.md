@@ -14,9 +14,9 @@
 - Когда может помочь, когда нет
 
 #### Полезные ссылки
--[Angular.io: Reactive Forms](https://angular.io/guide/reactive-forms)
--[Реактивные формы (Reactive Forms) в Angular 2+](https://medium.com/@maks.zhitlov/reactive-forms-in-angular-2f8abe884f79)
--[CUSTOM FORM CONTROLS IN ANGULAR](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
--[Формы и валидация данных в Angular](http://stepansuvorov.com/blog/2017/07/angular-forms-and-validation/)
--[PrimeNG issue](https://github.com/primefaces/primeng/issues/5678)
--[Reactive Model Form](https://codecraft.tv/courses/angular/forms/reactive-model-form/)
+- [Angular.io: Reactive Forms](https://angular.io/guide/reactive-forms)
+- [Реактивные формы (Reactive Forms) в Angular 2+](https://medium.com/@maks.zhitlov/reactive-forms-in-angular-2f8abe884f79)
+- [CUSTOM FORM CONTROLS IN ANGULAR](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
+- [Формы и валидация данных в Angular](http://stepansuvorov.com/blog/2017/07/angular-forms-and-validation/)
+- [PrimeNG issue](https://github.com/primefaces/primeng/issues/5678)
+- [Reactive Model Form](https://codecraft.tv/courses/angular/forms/reactive-model-form/)
