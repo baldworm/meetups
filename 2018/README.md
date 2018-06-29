@@ -13,6 +13,16 @@
 4. **Стоит ли переходить?**
 - Когда может помочь, когда нет
 
+
+#### Демонстрации
+- [Reactive Forms Starter] (https://stackblitz.com/edit/angular-reactive-forms-starter)
+- [Баланс] (https://stackblitz.com/edit/angular-reactive-vs-template-balance)
+- [Reactive Vs Template - multiple select] (https://stackblitz.com/edit/reactive-vs-template-select-sample)
+- [Reactive Vs Template - validators] (https://stackblitz.com/edit/reactive-vs-template-validators)
+- [PrimeNG checkbox issue] (https://stackblitz.com/edit/angular-primeng-p-checkbox-issue)
+
+
+
 #### Полезные ссылки
 - [Angular.io: Reactive Forms](https://angular.io/guide/reactive-forms)
 - [Реактивные формы (Reactive Forms) в Angular 2+](https://medium.com/@maks.zhitlov/reactive-forms-in-angular-2f8abe884f79)
