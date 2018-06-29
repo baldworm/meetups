@@ -15,11 +15,11 @@
 
 
 #### Демонстрации
-- [Reactive Forms Starter] (https://stackblitz.com/edit/angular-reactive-forms-starter)
-- [Баланс] (https://stackblitz.com/edit/angular-reactive-vs-template-balance)
-- [Reactive Vs Template - multiple select] (https://stackblitz.com/edit/reactive-vs-template-select-sample)
-- [Reactive Vs Template - validators] (https://stackblitz.com/edit/reactive-vs-template-validators)
-- [PrimeNG checkbox issue] (https://stackblitz.com/edit/angular-primeng-p-checkbox-issue)
+- [Reactive Forms Starter](https://stackblitz.com/edit/angular-reactive-forms-starter)
+- [Баланс](https://stackblitz.com/edit/angular-reactive-vs-template-balance)
+- [Reactive Vs Template - Multiple select](https://stackblitz.com/edit/reactive-vs-template-select-sample)
+- [Reactive Vs Template - Validators](https://stackblitz.com/edit/reactive-vs-template-validators)
+- [PrimeNG checkbox issue](https://stackblitz.com/edit/angular-primeng-p-checkbox-issue)
 
 
 
