@@ -13,9 +13,11 @@
 4. **Стоит ли переходить?**
 - Когда может помочь, когда нет
 
+#### Reactive Forms Starter
+- [GitHub](https://github.com/Angular-RU/angular-reactive-forms-starter)
+- [StackBlitz](https://stackblitz.com/github/Angular-RU/angular-reactive-forms-starter)
 
 #### Демонстрации
-- [Reactive Forms Starter](https://stackblitz.com/edit/angular-reactive-forms-starter)
 - [Баланс](https://stackblitz.com/edit/angular-reactive-vs-template-balance)
 - [Reactive Vs Template - Multiple select](https://stackblitz.com/edit/reactive-vs-template-select-sample)
 - [Reactive Vs Template - Validators](https://stackblitz.com/edit/reactive-vs-template-validators)
