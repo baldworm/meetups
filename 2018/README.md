@@ -1,5 +1,9 @@
+## Reactive Forms in Angular
+> ngCinimex
+
 ![](https://pp.userapi.com/c849328/v849328440/17f36/bG9PCwH2OH8.jpg)
-[Ссылка на презентацию](https://docs.google.com/presentation/d/1XkVV1ohHtj7OEEy_N9L-ghpkuLPR44vmPNs9GPdzYQc/edit?usp=sharing)
+#### Доклад
+[Google Slides](https://docs.google.com/presentation/d/1XkVV1ohHtj7OEEy_N9L-ghpkuLPR44vmPNs9GPdzYQc/edit?usp=sharing) **⋅** [YouTube](https://youtu.be/daP3OAjb1Hc?t=1h3m33s)
 1. **Что за реактивные формы?**
 - Какие основные различия?
 - Почему нельзя обойтись декларативными?
